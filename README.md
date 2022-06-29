@@ -1,0 +1,1 @@
+Sudoku game written in python using the pygame package. Connects to api to get a imcomplete suduko board. Has a select difficulty, solve and toggleable hint features. Solves the board using backtracking algorithm.
